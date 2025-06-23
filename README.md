@@ -23,6 +23,16 @@ This project was made after following a tutorial and adapting it using my own un
 - CSS styling and positioning
 - DOM manipulation via `eval()` function
 
+
+## 🚀 Live Demo
+
+You can host this project using [GitHub Pages](https://pages.github.com/), Netlify, or Vercel.
+
+This project is live here:  
+👉 [Live Demo](https://prashant-pal23.github.io/my-first-calculator)
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
