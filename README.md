@@ -11,8 +11,8 @@ A basic calculator built using **HTML**, **CSS**, and minimal **JavaScript** —
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - **JavaScript** (inline only; no external JS files)
 
 ## 🧠 Learning Purpose
@@ -23,10 +23,16 @@ This project was made after following a tutorial and adapting it using my own un
 - CSS styling and positioning
 - DOM manipulation via `eval()` function
 
+---
+
+## 📸 Screenshot
+
+<img src="screenshot.png" alt="Simple_Calculator" width="500"/>
+
+---
 
 ## 🚀 Live Demo
 
-You can host this project using [GitHub Pages](https://pages.github.com/), Netlify, or Vercel.
 
 This project is live here:  
 👉 [Live Demo](https://prashant-pal23.github.io/my-first-calculator)
@@ -37,3 +43,10 @@ This project is live here:
 
 This project is licensed under the [MIT License](LICENSE).
 
+---
+
+## 📬 Connect
+
+If you liked this project, consider starring 🌟 the repo or [connecting with me](https://github.com/Prashant-Pal23)!
+
+---
